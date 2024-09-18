@@ -1,4 +1,4 @@
-# VIP-LIGHT-POLICE-LIGHT-System-With-Arduino
+# VIP LIGHT POLICE LIGHT System With Arduino
 
 This project demonstrates how to simulate different light patterns using an Arduino and LEDs. The system uses one red and one blue LED to simulate a VIP and police light system. The red LED represents a slowly blinking VIP light, while the blue LED represents a rapidly blinking police light, creating the effect of a flashing siren.
 
